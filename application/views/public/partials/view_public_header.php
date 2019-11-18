@@ -60,7 +60,7 @@
 				</div>
 		  <div class=" h_menu4">
 				<ul class="memenu skyblue">
-					<li><a class="color8" href="<?php echo base_url(); ?>">Home</a></li>	
+					<li><a class="color8" href="http://localhost/vsms/">Home</a></li>	
 					<li><a class="color4" href="<?php echo base_url('login'); ?>">Dashboard Login</a></li>
 			  </ul> 
 			</div>
